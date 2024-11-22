@@ -1,0 +1,14 @@
+numpy
+pandas
+datetime
+statsmodels
+scipy
+scikit-learn
+a5_client
+a5_client_utils
+jsonschema
+requests
+pyyaml
+pydantic
+matplotlib
+typing

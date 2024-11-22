@@ -1,0 +1,16 @@
+log:
+  filename: log/analysis.log
+input_api:
+  url: "https://alerta.ina.gob.ar/a6"
+  token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6ImxnaW9yZGFubyIsImlhdCI6MTUxNjIzOTAyMn0.NKsPGWzRYeE4rOMNF26MSZgTG_-VAsQ8hPqVcagmYpE"
+output_api:
+  url: "https://alerta.ina.gob.ar/a6"
+  token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6ImxnaW9yZGFubyIsImlhdCI6MTUxNjIzOTAyMn0.NKsPGWzRYeE4rOMNF26MSZgTG_-VAsQ8hPqVcagmYpE"
+proxy_dict:
+  http: ""
+  https: ""
+  ftp: ""
+use_proxy: false
+graph:
+  height: 8
+  width: 10
