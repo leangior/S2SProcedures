@@ -1,7 +1,7 @@
 from src import getSeriesApp as getSeries
 from src import DataDrivenMethods as dd
 import matplotlib.pyplot as plt
-serie=getSeries.getSerie(34,"1991-01-01","2024-11-22")
+serie=getSeries.getSerie(868,"1991-01-01","2024-11-22")
 anomaly=dd.getCivilAnom(serie)
 analogies=dd.getAnalogiesScores(anomaly)
 forecast=dd.getAnalogiesValues(analogies,serie)
