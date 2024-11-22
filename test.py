@@ -24,7 +24,7 @@ y2=ts.values.flatten()-9*results['rmse']
 plt.fill_between(x,y1,y2,color='red',alpha=.10)
 plt.plot(ts,color='blue',linewidth=1.5,linestyle='dashed')
 plt.plot(ts,'o',color='red')
-plt.ylabel("H[m]")
+plt.ylabel("Q[m3/s]")
 plt.xlabel("t")
 plt.show()
 
