@@ -28,4 +28,3 @@ plt.ylabel("H[m]")
 plt.xlabel("t")
 plt.show()
 
-Le puse como parámetro la fecha de pronóstico, cuestiónd e facilitar el análisis retrospectivo. Aquí perspectiva para el Uruguay en San javier 
